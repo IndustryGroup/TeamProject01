@@ -9,14 +9,18 @@
 <body>
 	<ul>
 		<li>
-			학원에서 만든 index file
+			첫번째 파일생성
 		</li>
 		<li>
-			커밋 첫번째 수정입니다
-		</li>	
-		<li>
-			커밋 첫번째 수정입니다ㅋ
+			파일수저ㅇ:KOSMO
 		</li>
+		<li>
+			<%
+				DTO dto = new DTO("홍길동");
+				out.println(dto.getName());
+			%>
+		</li>
+		
 	</ul>
 </body>
 </html>
