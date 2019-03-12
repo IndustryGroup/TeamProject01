@@ -10,6 +10,9 @@
 	<ul>
 		<li>
 			학원에서 만든 index file
+		</li>
+		<li>
+			커밋 첫번째 수정입니다
 		</li>	
 	</ul>
 </body>
